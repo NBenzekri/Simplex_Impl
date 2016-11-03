@@ -3,6 +3,7 @@
 */
 public class Simplex {
 
+
 	private double[][] tableaux; // tableaux
 	private int numberOfConstraints; // number of constraints
 	private int numberOfOriginalVariables; // number of original variables
