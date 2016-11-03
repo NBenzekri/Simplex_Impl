@@ -1,8 +1,6 @@
 /**
 	Simple Simplex impementation
 */
-
-
 public class Simplex {
 
 	private double[][] tableaux; // tableaux
