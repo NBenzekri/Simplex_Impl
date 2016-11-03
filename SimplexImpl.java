@@ -1,5 +1,5 @@
 /**
-	Simple Simplex impementation
+	Simple Simplex impementation V1.0
 */
 public class Simplex {
 
